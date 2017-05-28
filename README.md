@@ -1,5 +1,5 @@
 # Local Stylelint for Syntastic
-A simple plugin to load local Stylelint.
+A simple plugin to prioritise local Stylelint.
 
 Installation Instructions
 -------------------------
@@ -23,4 +23,4 @@ to your `.vimrc` in order to enable the syntax checker for CSS and/or SCSS.
 
 Thanks
 ------
-Original work done by [@mtscout6](https://github.com/mtscout6/syntastic-local-eslint.vim).
+Original script for searching local npm installation done by [@mtscout6](https://github.com/mtscout6/syntastic-local-eslint.vim).
