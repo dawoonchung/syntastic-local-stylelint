@@ -19,7 +19,7 @@ and/or
 ```
 let g:syntastic_scss_checkers = ['stylelint']
 ```
-to enable the syntax checker for CSS and/or SCSS.
+to your `.vimrc` in order to enable the syntax checker for CSS and/or SCSS.
 
 Thanks
 ------
